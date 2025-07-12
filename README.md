@@ -71,12 +71,12 @@ Want to know more about lights? Look in the [Light properties chapter](doc/Light
 ## Wiki
 
 The workbench have a lot of features that cannot explained all in the README. So we created a wiki with tutorials and a explanation of all features: [POV-Ray Workbench Wiki](doc/)
-The FreeCAD Wiki page is here: [POV-Ray Workbench Wiki](https://wiki.freecadweb.org/POV-Ray-Rendering_Workbench)
+The FreeCAD Wiki page is here: [POV-Ray Workbench Wiki](https://wiki.freecad.org/POV-Ray-Rendering_Workbench)
 
 ## Forum Thread
 
 We have a thread in the FreeCAD Forum about this workbench. You can ask question there, give feedback, report bugs, etc.:  
-[New Raytracing Workbench for POV-Ray](https://forum.freecadweb.org/viewtopic.php?f=9&t=48629)
+[New Raytracing Workbench for POV-Ray](https://forum.freecad.org/viewtopic.php?f=9&t=48629)
 
 ## Idea of the Workbench on Contrast to others
 

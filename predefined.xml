@@ -153,7 +153,7 @@
         </OtherWoods>
     </Wood>
     <Floor>
-        <!-- We used the parquet texture for the floor from https://wiki.freecadweb.org/Tutorial_FreeCAD_POV_ray and adapted it for this specific syntax. Thanks to the creators of the tutorial. The tutorial is licensed under CC 3.0: https://creativecommons.org/licenses/by/3.0/ -->
+        <!-- We used the parquet texture for the floor from https://wiki.freecad.org/Tutorial_FreeCAD_POV_ray and adapted it for this specific syntax. Thanks to the creators of the tutorial. The tutorial is licensed under CC 3.0: https://creativecommons.org/licenses/by/3.0/ -->
         <Predef inc="woods.inc" pigment="wood color_map { M_Wood8A }turbulence 0.5 scale&lt;200, 20, 20>" finish="ambient 0.0 reflection 0.1 specular 0.2" normal="average normal_map {[1 gradient y 2 slope_map { [0&lt;0,1>][0.05 &lt;1,0>][0.95 &lt;1,0>][1 &lt;0,-1>] } scale 80][1 wood 0.5 slope_map { [0 &lt;0,0>][0.5 &lt;0.5,1>][1 &lt;1,0>] }turbulence 0.5 scale &lt;200, 20, 20>]}" comment="You have to put this texture on a big object to see how it really looks (e.g. 1mx1m surface)">Parquet</Predef>
     </Floor>
     <Water>
